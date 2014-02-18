@@ -28,8 +28,6 @@
         <module>core</module> 
         <module>xml</module>
         <module>xmldog</module>
-        <module>swing</module>
-        <module>examples</module>
     </modules> 
   
     <build>
